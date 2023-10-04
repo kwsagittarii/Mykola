@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mykola Khytra</h1>
-<h3 align="center">A passionate General QA from Lviv, Ukraine</h3>
+<h3 align="center">A passionate General QA Engineer from Lviv, Ukraine</h3>
 
 ⚡ Fun fact: **Honey never spoils.**
 <img width="55%" align="right" alt="Github" src="https://github.com/kwsagittarii/Mykola/blob/main/funny_pic.jpg" style="max-width: 100%;">
