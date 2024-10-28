@@ -3,4 +3,4 @@
 
 <span align="left">Connect with me: </span>
 <a href="https://linkedin.com/in/mykola-khytra" target="_blank">LinkedIn</a> |
-<a href="https://instagram.com/hasselnaurs" target="_blank">Instagram</a>
+<a href="https://instagram.com/hrafnvitt" target="_blank">Instagram</a>
